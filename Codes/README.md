@@ -4,11 +4,11 @@
 - Pearl 
 
 ## Files
-- The file 0_EDA.ipynb performs the initial statistical analyses.
-- The file 1_hmm.py run the training using Hidden Markov Model (HMM)
-- The file 2_conlleval.perl
-- The file 3_metrics.py
-- The file 4_crf.py
+- The file ```0_EDA.ipynb``` performs the initial statistical analyses.
+- The file ```1_hmm.py``` run the training using Hidden Markov Model (HMM)
+- The file ```2_conlleval.perl``` 
+- The file ```3_metrics.py``` 
+- The file ```4_crf.py```
 
 ## Authors
 Hidelberg O. Albuquerque, Rosimeire Costa, Gabriel Silvestre, Ellen Souza, Nádia F. F. da Silva, Douglas Vitório, Gyovana Moriyama, Lucas Martins, Luiza Soezima, Augusto Nunes, Felipe Siqueira, João P. Tarrega, Joao V. Beinotti, Marcio Dias, Matheus Silva, Miguel Gardini, Vinicius Silva, Andrré C. P. L. F. de Carvalho and Adriano L. I. Oliveira.
