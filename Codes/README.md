@@ -8,10 +8,10 @@
 - The file ```1_hmm.py``` run the training using Hidden Markov Model (HMM). The size of the training and test sets will appear in the terminal, save these numbers. This will generate 6 files named "predictions_file_something".
 - The file ```2_conlleval.perl``` evaluates the results of processing CoNLL-2000 shared task (author: Erik Tjong Kim Sang). <br> Run the following command in terminal:
 ```
-perl conlleval.perl < predictions_file_something_1 > scores_file_1
-perl conlleval.perl < predictions_file_something_2 > scores_file_2
+perl 2_conlleval.perl < predictions_file_something_1 > scores_file_1
+perl 2_conlleval.perl < predictions_file_something_2 > scores_file_2
 (..)
-perl conlleval.perl < predictions_file_final > scores_file_final
+perl 2_conlleval.perl < predictions_file_final > scores_file_final
 ```
 - The file ```3_metrics.py``` 
 - The file ```4_crf.py```
