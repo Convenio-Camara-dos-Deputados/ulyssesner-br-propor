@@ -3,12 +3,13 @@
 - Python 3.6 or upper
 - Pearl 
 
-## Files
-- The file ```0_EDA.ipynb``` performs the initial statistical analyses.
-- The file ```1_hmm.py``` run the training using Hidden Markov Model (HMM)
+## Instructions
+- The file ```0_EDA.ipynb``` performs the initial statistical analyses. The file should be executed, updating the DIR directory initially.
+- The file ```1_hmm.py``` run the training using Hidden Markov Model (HMM). The size of the training and test sets will appear in the terminal, save these numbers. This will generate 6 files named "predictions_file_something".
 - The file ```2_conlleval.perl``` 
 - The file ```3_metrics.py``` 
 - The file ```4_crf.py```
+- In all files, you need to update the DIR directory
 
 ## Authors
 Hidelberg O. Albuquerque, Rosimeire Costa, Gabriel Silvestre, Ellen Souza, Nádia F. F. da Silva, Douglas Vitório, Gyovana Moriyama, Lucas Martins, Luiza Soezima, Augusto Nunes, Felipe Siqueira, João P. Tarrega, Joao V. Beinotti, Marcio Dias, Matheus Silva, Miguel Gardini, Vinicius Silva, Andrré C. P. L. F. de Carvalho and Adriano L. I. Oliveira.
