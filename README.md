@@ -18,7 +18,7 @@ This research is carried out in the context of the Ulysses Project, of the Brazi
 ## Citation
 If you use our work, please cite:
 ```
-@InProceedings{10.1007/978-3-030-98305-5_1,
+@inproceedings{UlyssesNER-Br,
   title={UlyssesNER-Br: A Corpus of Brazilian Legislative Documents for Named Entity Recognition}, 
   author={Albuquerque, Hidelberg O. and Costa, Rosimeire and Silvestre, Gabriel and Souza, Ellen and da Silva, Nádia F. F. and Vitório, Douglas and Moriyama, Gyovana and Martins, Lucas and Soezima, Luiza and Nunes, Augusto and Siqueira, Felipe and Tarrega, João P. and Beinotti, Joao V. and Dias, Marcio and Silva, Matheus and Gardini, Miguel and Silva, Vinicius and de Carvalho, André C. P. L. F. and Oliveira, Adriano L. I.},
   booktitle={Computational Processing of the Portuguese Language},
