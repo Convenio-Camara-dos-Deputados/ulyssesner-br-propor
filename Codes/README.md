@@ -4,8 +4,8 @@
 - Pearl 
 
 ## Files
-- The file 0_EDA.ipynb..
-- The file 1_hmm.py
+- The file 0_EDA.ipynb performs the initial statistical analyses.
+- The file 1_hmm.py run the training using Hidden Markov Model (HMM)
 - The file 2_conlleval.perl
 - The file 3_metrics.py
 - The file 4_crf.py
