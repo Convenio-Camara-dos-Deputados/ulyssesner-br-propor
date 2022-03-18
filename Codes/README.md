@@ -1,6 +1,6 @@
 # UlyssesNER-Br: Codes
 ## Requirements
-- Python 3.6 or upper
+- Python 3
 - Pearl 
 
 ## Instructions
