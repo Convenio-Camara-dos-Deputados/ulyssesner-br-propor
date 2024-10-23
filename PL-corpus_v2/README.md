@@ -1,5 +1,4 @@
-# Corpora
-## PL_Corpus_v2
+# PL-Corpus_v2
 The updated version of the PL-corpus was used by Rafael O. Nunes, Dennis G. Balreira, Andre S. Spritzer and Carla Maria D.S. Freitas, all by Federal University of Rio Grande do Sul (UFRGS).
 The full works is available in:
 - ["A Named Entity Recognition Approach for Portuguese Legislative Texts Using Self-Learning", PROPOR (2024)](https://aclanthology.org/2024.propor-1.30/)
