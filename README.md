@@ -15,11 +15,20 @@ Paper: https://link.springer.com/chapter/10.1007/978-3-030-98305-5_1
 ## Acknowledgements
 This research is carried out in the context of the Ulysses Project, of the Brazilian Chamber of Deputies. Ellen Souza and Nadia Félix are supported by FAPESP , agreement between USP and the Brazilian Chamber of Deputies. André C. P. L. F. de Carvalho and Adriano L. I. Oliveira are supported by CNPq. To the Brazilian Chamber of Deputies and to research funding agencies, to which we express our gratitude for supporting the research.
 
+## PL-corpus v2
 **_NOTE:_**  We were recently informed about the presence of duplication in some sentences in the UlyssesNER-Br corpus. After careful verification, we confirmed that there was indeed a duplication of a specific document. In response to this observation, we conducted a detailed review of the annotations in these documents. We note that, despite the presence of redundant content, the consistency of the annotations remained unchanged. We thank the UFRGS collaborators Rafael O. Nunes, Dennis G. Balreira, Andre S. Spritzer and Carla Maria D.S. Freitas for alerting us to this issue. This interaction is essential for us to continue improving the quality and accuracy of our work.
+
+The updated version of the PL-corpus (v2) was used in the following research:: 
+- ["A Named Entity Recognition Approach for Portuguese Legislative Texts Using Self-Learning", PROPOR (2024)](https://aclanthology.org/2024.propor-1.30/)
+- ["Out of Sesame Street: A Study of Portuguese Legal Named Entity Recognition Through In-Context Learning", ICEIS (2024)](https://doi.org/10.5220/0012624700003690)
+- ["Named Entity Recognition and Data Leakage in Legislative Texts: A Literature Reassessment" Linguamática (2024), *Under review - Preprint](http://dx.doi.org/10.13140/RG.2.2.25781.69602)
+
+We thank the UFRGS collaborators for their kindness and collaboration. This interaction is essential for to continue improving the quality and accuracy of our research, and Science as a whole. We remain available for future joint research efforts.
+
 
 ## Citation
 If you use our work, please cite:
-```
+``` bibtex
 @inproceedings{UlyssesNER-Br,
   title={UlyssesNER-Br: A Corpus of Brazilian Legislative Documents for Named Entity Recognition}, 
   author={Albuquerque, Hidelberg O. and Costa, Rosimeire and Silvestre, Gabriel and Souza, Ellen and da Silva, Nádia F. F. and Vitório, Douglas and Moriyama, Gyovana and Martins, Lucas and Soezima, Luiza and Nunes, Augusto and Siqueira, Felipe and Tarrega, João P. and Beinotti, Joao V. and Dias, Marcio and Silva, Matheus and Gardini, Miguel and Silva, Vinicius and de Carvalho, André C. P. L. F. and Oliveira, Adriano L. I.},
